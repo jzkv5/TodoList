@@ -43,6 +43,6 @@ public class ToDoList {
 	}	
 	public void update(Task task, Date newDate, String description) {
 		task.setDue(newDate);
-		task.setDescription(description);//yah
+		task.setDescription(description);
 	}
 }
