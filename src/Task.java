@@ -1,7 +1,9 @@
+import java.util.Date;
 
 public class Task {
 	private String description = null;
 	private boolean isComplete = false;
+	private Date due = null;
 	
 	//test
 	public Task(String description) {
@@ -15,6 +17,13 @@ public class Task {
 		this.isComplete = isComplete;
 	}
 	
+	public Task(String description, boolean isComplete, Date due) {
+		super();
+		this.description = description;
+		this.isComplete = isComplete;
+		this.due = due;
+	}
+	
 	public String getDescription() {
 		return description;
 	}
@@ -26,6 +35,14 @@ public class Task {
 	}
 	public void setComplete(boolean isComplete) {
 		this.isComplete = isComplete;
+	}
+
+	public Date getDue() {
+		return due;
+	}
+
+	public void setDue(Date due) {
+		this.due = due;
 	}
 
 }
