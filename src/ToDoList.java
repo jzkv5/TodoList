@@ -7,7 +7,8 @@ public class ToDoList {
 	private HashMap<String, Task> tasks = new HashMap<String, Task>();
 	
 	public void addTask (Task task) {
-		tasks.put(task.getDescription(), task);
+		String desc = task.getDescription();
+		tasks.put(desc, task);
 	}
 	public void completeTask(String description) {
 		Task task = null;
@@ -29,7 +30,7 @@ public class ToDoList {
 		return tasks.remove(description);
 	}
 	public Collection<Task> getAllTasks() {
-		return tasks.values();
+		return tasks.values();//yah!
 	}
 	public Collection<Task> getCompletedTasks() {
 		Collection<Task> completedTasks = new ArrayList<Task> ();
