@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="SFT-OIS29321" name="ToDoListTest" skipped="0" tests="4" time="0.189" timestamp="2020-03-25T07:22:54">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="RP" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 10" />
+    <property name="env.DriverData" value="C:\Windows\System32\Drivers\DriverData" />
+    <property name="env.COMPUTERNAME" value="SFT-OIS29321" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\EclipseIDE\plugins\org.apache.ant_1.10.1.v20170504-0840" />
+    <property name="java.runtime.version" value="10+46" />
+    <property name="env.HOMEPATH" value="\Users\jane_zhang" />
+    <property name="user.name" value="jane_zhang" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-10\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="TodoList" />
+    <property name="java.vm.compressedOopsMode" value="32-bit" />
+    <property name="java.version" value="10" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 9, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.__PSLockdownPolicy" value="4" />
+    <property name="env.TEMP" value="C:\Users\JANE_Z~1\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="54.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\Program Files\Java\jdk-10" />
+    <property name="env.PSModulePath" value="C:\Users\jane_zhang\Documents\WindowsPowerShell\Modules" />
+    <property name="env.APPDATA" value="C:\Users\jane_zhang\AppData\Roaming" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="os.version" value="10.0" />
+    <property name="ant.file" value="D:\Training\Agile  ISUS\Agile\selected-downloads\Workshop Solution\TodoListSampleSolutionJAVA\TodoList\build.xml" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="10+46" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Users\jane_zhang" />
+    <property name="ant.library.dir" value="C:\EclipseIDE\plugins\org.apache.ant_1.10.1.v20170504-0840\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default" />
+    <property name="env.TMP" value="C:\Users\JANE_Z~1\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="target" value="1.8" />
+    <property name="user.home" value="C:\Users\jane_zhang" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="java.version.date" value="2018-03-20" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-10\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-10/bin/server;C:/Program Files/Java/jdk-10/bin;C:\ProgramData\Boxstarter;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\WindowsPowerShell\Scripts\HP.ClientScriptLibrary;C:\Program Files (x86)\Micro Focus\Content Manager\;C:\Program Files\Java\jdk-10\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\jane_zhang\AppData\Local\Microsoft\WindowsApps;C:\Users\jane_zhang\AppData\Roaming\npm;C:\EclipseIDE;;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="env.USERDNSDOMAIN" value="RP.EDU.SG" />
+    <property name="java.vm.vendor" value="&quot;Oracle Corporation&quot;" />
+    <property name="env.ChocolateyLastPathUpdate" value="Sat Nov  3 21:50:45 2018" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="java.class.path" value="D:\Training\Agile  ISUS\Agile\selected-downloads\Workshop Solution\TodoListSampleSolutionJAVA\TodoList\bin;D:\Training\Agile  ISUS\Agile\selected-downloads\Workshop Solution\TodoListSampleSolutionJAVA\TodoList\LIB\org.junit_4.12.0.v201504281640\junit.jar;D:\Training\Agile  ISUS\Agile\selected-downloads\Workshop Solution\TodoListSampleSolutionJAVA\TodoList\LIB\org.hamcrest.core_1.3.0.v201303031735.jar;C:\EclipseIDE\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-launcher.jar;C:\EclipseIDE\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant.jar;C:\EclipseIDE\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-junit.jar;C:\EclipseIDE\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner ToDoListTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\Training\Agile  ISUS\Agile\selected-downloads\Workshop Solution\TodoListSampleSolutionJAVA\TodoList\junit\TEST-ToDoListTest.xml crashfile=D:\Training\Agile  ISUS\Agile\selected-downloads\Workshop Solution\TodoListSampleSolutionJAVA\TodoList\junitvmwatcher17203395460436056426.properties propsfile=D:\Training\Agile  ISUS\Agile\selected-downloads\Workshop Solution\TodoListSampleSolutionJAVA\TodoList\junit18090017979253854741.properties" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.1 compiled on February 2 2017" />
+    <property name="jdk.debug" value="release" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.windir" value="C:\Windows" />
+    <property name="env.LOGONSERVER" value="\\RPDC3" />
+    <property name="java.vm.specification.version" value="10" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="env.OneDrive" value="C:\Users\Administrator\OneDrive" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ANT_HOME" value="C:\EclipseIDE\plugins\org.apache.ant_1.10.1.v20170504-0840" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.UATDATA" value="C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77" />
+    <property name="env.PROCESSOR_REVISION" value="8e09" />
+    <property name="java.io.tmpdir" value="C:\Users\JANE_Z~1\AppData\Local\Temp\" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/" />
+    <property name="ant.file.type.TodoList" value="file" />
+    <property name="env.SystemRoot" value="C:\Windows" />
+    <property name="env.ChocolateyInstall" value="C:\ProgramData\chocolatey" />
+    <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="user.dir" value="D:\Training\Agile  ISUS\Agile\selected-downloads\Workshop Solution\TodoListSampleSolutionJAVA\TodoList" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\jane_zhang\AppData\Local" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:/Program Files/Java/jdk-10/bin/server;C:/Program Files/Java/jdk-10/bin;C:\ProgramData\Boxstarter;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\WindowsPowerShell\Scripts\HP.ClientScriptLibrary;C:\Program Files (x86)\Micro Focus\Content Manager\;C:\Program Files\Java\jdk-10\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\jane_zhang\AppData\Local\Microsoft\WindowsApps;C:\Users\jane_zhang\AppData\Roaming\npm;C:\EclipseIDE;" />
+    <property name="basedir" value="D:\Training\Agile  ISUS\Agile\selected-downloads\Workshop Solution\TodoListSampleSolutionJAVA\TodoList" />
+    <property name="ant.java.version" value="9" />
+    <property name="ant.core.lib" value="C:\EclipseIDE\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant.jar" />
+    <property name="env.USERNAME" value="jane_zhang" />
+    <property name="source" value="1.8" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.USERDOMAIN" value="RP" />
+    <property name="java.specification.version" value="10" />
+    <property name="ant.project.invoked-targets" value="build" />
+    <property name="java.vendor.version" value="18.3" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+    <property name="env.VBOX_MSI_INSTALL_PATH" value="E:\Oracle\VirtualBox\" />
+    <property name="ant.file.TodoList" value="D:\Training\Agile  ISUS\Agile\selected-downloads\Workshop Solution\TodoListSampleSolutionJAVA\TodoList\build.xml" />
+  </properties>
+  <testcase classname="ToDoListTest" name="testAddTask" time="0.003" />
+  <testcase classname="ToDoListTest" name="testGetCompletedTasks" time="0.0" />
+  <testcase classname="ToDoListTest" name="testgetStatus" time="0.0" />
+  <testcase classname="ToDoListTest" name="testRemoveTask" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
